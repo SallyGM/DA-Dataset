@@ -1,0 +1,58 @@
+[
+    {
+        "hub_id": "H01",
+        "hub_name": "North Exchange",
+        "zone": "North",
+        "hub_type": "Dispatch",
+        "capacity_score": "82"
+    },
+    {
+        "hub_id": "H02",
+        "hub_name": "South Link",
+        "zone": "South",
+        "hub_type": "Dispatch",
+        "capacity_score": "78"
+    },
+    {
+        "hub_id": "H03",
+        "hub_name": "East Dock",
+        "zone": "East",
+        "hub_type": "Warehouse",
+        "capacity_score": "74"
+    },
+    {
+        "hub_id": "H04",
+        "hub_name": "West Gate",
+        "zone": "West",
+        "hub_type": "Dispatch",
+        "capacity_score": "69"
+    },
+    {
+        "hub_id": "H05",
+        "hub_name": "Central Core",
+        "zone": "Central",
+        "hub_type": "Control",
+        "capacity_score": "88"
+    },
+    {
+        "hub_id": "H06",
+        "hub_name": "Airport Hub",
+        "zone": "Airport",
+        "hub_type": "Dispatch",
+        "capacity_score": "71"
+    },
+    {
+        "hub_id": "H07",
+        "hub_name": "Riverside Hub",
+        "zone": "Riverside",
+        "hub_type": "Warehouse",
+        "capacity_score": "66"
+    },
+    {
+        "hub_id": "H08",
+        "hub_name": "Midtown Relay",
+        "zone": "Central",
+        "hub_type": "Charging",
+        "capacity_score": "63"
+    }
+]

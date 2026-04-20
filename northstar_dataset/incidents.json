@@ -1,0 +1,2522 @@
+[
+    {
+        "incident_id": "I0001",
+        "delivery_id": "DL00221",
+        "incident_type": "BatteryAlert",
+        "reported_at": "2024-03-11 23:46:00",
+        "severity": "Medium",
+        "resolution_status": "Escalated",
+        "resolved_hours": "12.3"
+    },
+    {
+        "incident_id": "I0002",
+        "delivery_id": "DL00578",
+        "incident_type": "BatteryAlert",
+        "reported_at": "2024-02-21 10:56:00",
+        "severity": "Low",
+        "resolution_status": "Open",
+        "resolved_hours": "9.6"
+    },
+    {
+        "incident_id": "I0003",
+        "delivery_id": "DL00175",
+        "incident_type": "TemperatureIssue",
+        "reported_at": "2025-04-17 23:22:00",
+        "severity": "Medium",
+        "resolution_status": "Open",
+        "resolved_hours": "22.0"
+    },
+    {
+        "incident_id": "I0004",
+        "delivery_id": "DL00417",
+        "incident_type": "ProofMissing",
+        "reported_at": "2025-02-09 00:16:00",
+        "severity": "Medium",
+        "resolution_status": "Closed",
+        "resolved_hours": "9.8"
+    },
+    {
+        "incident_id": "I0005",
+        "delivery_id": "DL00897",
+        "incident_type": "RouteDeviation",
+        "reported_at": "2025-01-04 02:49:00",
+        "severity": "Low",
+        "resolution_status": "Open",
+        "resolved_hours": "13.0"
+    },
+    {
+        "incident_id": "I0006",
+        "delivery_id": "DL00634",
+        "incident_type": "CustomerNoShow",
+        "reported_at": "2025-08-08 21:26:00",
+        "severity": "High",
+        "resolution_status": "PendingVendor",
+        "resolved_hours": "19.9"
+    },
+    {
+        "incident_id": "I0007",
+        "delivery_id": "DL00495",
+        "incident_type": "AppSyncError",
+        "reported_at": "2024-05-23 02:29:00",
+        "severity": "Low",
+        "resolution_status": "PendingVendor",
+        "resolved_hours": "4.8"
+    },
+    {
+        "incident_id": "I0008",
+        "delivery_id": "DL00602",
+        "incident_type": "RouteDeviation",
+        "reported_at": "2024-08-17 01:27:00",
+        "severity": "Medium",
+        "resolution_status": "Closed",
+        "resolved_hours": "12.1"
+    },
+    {
+        "incident_id": "I0009",
+        "delivery_id": "DL00636",
+        "incident_type": "CustomerNoShow",
+        "reported_at": "2024-08-24 22:28:00",
+        "severity": "Medium",
+        "resolution_status": "Closed",
+        "resolved_hours": "15.8"
+    },
+    {
+        "incident_id": "I0010",
+        "delivery_id": "DL00052",
+        "incident_type": "CustomerNoShow",
+        "reported_at": "2025-05-06 14:17:00",
+        "severity": "Medium",
+        "resolution_status": "Closed",
+        "resolved_hours": "9.4"
+    },
+    {
+        "incident_id": "I0011",
+        "delivery_id": "DL00376",
+        "incident_type": "CustomerNoShow",
+        "reported_at": "2024-09-21 19:17:00",
+        "severity": "Medium",
+        "resolution_status": "Closed",
+        "resolved_hours": "20.4"
+    },
+    {
+        "incident_id": "I0012",
+        "delivery_id": "DL00366",
+        "incident_type": "RouteDeviation",
+        "reported_at": "2025-07-24 06:39:00",
+        "severity": "Medium",
+        "resolution_status": "Escalated",
+        "resolved_hours": "18.7"
+    },
+    {
+        "incident_id": "I0013",
+        "delivery_id": "DL00253",
+        "incident_type": "BatteryAlert",
+        "reported_at": "2024-09-30 07:49:00",
+        "severity": "High",
+        "resolution_status": "Closed",
+        "resolved_hours": "20.9"
+    },
+    {
+        "incident_id": "I0014",
+        "delivery_id": "DL00075",
+        "incident_type": "VehicleFault",
+        "reported_at": "2024-08-06 04:32:00",
+        "severity": "High",
+        "resolution_status": "Open",
+        "resolved_hours": "5.0"
+    },
+    {
+        "incident_id": "I0015",
+        "delivery_id": "DL00607",
+        "incident_type": "ProofMissing",
+        "reported_at": "2024-09-11 17:48:00",
+        "severity": "High",
+        "resolution_status": "Closed",
+        "resolved_hours": ""
+    },
+    {
+        "incident_id": "I0016",
+        "delivery_id": "DL00724",
+        "incident_type": "AppSyncError",
+        "reported_at": "2024-10-10 08:26:00",
+        "severity": "Low",
+        "resolution_status": "PendingVendor",
+        "resolved_hours": "18.7"
+    },
+    {
+        "incident_id": "I0017",
+        "delivery_id": "DL00809",
+        "incident_type": "ProofMissing",
+        "reported_at": "2025-02-27 00:31:00",
+        "severity": "Low",
+        "resolution_status": "Closed",
+        "resolved_hours": ""
+    },
+    {
+        "incident_id": "I0018",
+        "delivery_id": "DL00574",
+        "incident_type": "AppSyncError",
+        "reported_at": "2025-11-08 21:55:00",
+        "severity": "High",
+        "resolution_status": "Closed",
+        "resolved_hours": "10.5"
+    },
+    {
+        "incident_id": "I0019",
+        "delivery_id": "DL00685",
+        "incident_type": "BatteryAlert",
+        "reported_at": "2024-02-12 07:05:00",
+        "severity": "High",
+        "resolution_status": "Closed",
+        "resolved_hours": "11.3"
+    },
+    {
+        "incident_id": "I0020",
+        "delivery_id": "DL00921",
+        "incident_type": "TemperatureIssue",
+        "reported_at": "2025-01-04 04:14:00",
+        "severity": "Critical",
+        "resolution_status": "Closed",
+        "resolved_hours": "3.3"
+    },
+    {
+        "incident_id": "I0021",
+        "delivery_id": "DL00186",
+        "incident_type": "SafetyNearMiss",
+        "reported_at": "2024-01-14 06:44:00",
+        "severity": "Medium",
+        "resolution_status": "Escalated",
+        "resolved_hours": "4.8"
+    },
+    {
+        "incident_id": "I0022",
+        "delivery_id": "DL00097",
+        "incident_type": "BatteryAlert",
+        "reported_at": "2024-07-17 01:29:00",
+        "severity": "Medium",
+        "resolution_status": "Escalated",
+        "resolved_hours": "26.8"
+    },
+    {
+        "incident_id": "I0023",
+        "delivery_id": "DL00904",
+        "incident_type": "ProofMissing",
+        "reported_at": "2025-08-19 08:30:00",
+        "severity": "Medium",
+        "resolution_status": "Escalated",
+        "resolved_hours": "4.8"
+    },
+    {
+        "incident_id": "I0024",
+        "delivery_id": "DL00850",
+        "incident_type": "ProofMissing",
+        "reported_at": "2025-08-30 22:55:00",
+        "severity": "Low",
+        "resolution_status": "Closed",
+        "resolved_hours": "12.0"
+    },
+    {
+        "incident_id": "I0025",
+        "delivery_id": "DL00413",
+        "incident_type": "BatteryAlert",
+        "reported_at": "2024-08-30 02:36:00",
+        "severity": "Medium",
+        "resolution_status": "PendingVendor",
+        "resolved_hours": "5.7"
+    },
+    {
+        "incident_id": "I0026",
+        "delivery_id": "DL00254",
+        "incident_type": "RouteDeviation",
+        "reported_at": "2024-12-29 16:12:00",
+        "severity": "High",
+        "resolution_status": "Closed",
+        "resolved_hours": "16.8"
+    },
+    {
+        "incident_id": "I0027",
+        "delivery_id": "DL00474",
+        "incident_type": "VehicleFault",
+        "reported_at": "2025-02-25 04:16:00",
+        "severity": "Medium",
+        "resolution_status": "Closed",
+        "resolved_hours": "4.3"
+    },
+    {
+        "incident_id": "I0028",
+        "delivery_id": "DL00479",
+        "incident_type": "RouteDeviation",
+        "reported_at": "2024-11-03 04:12:00",
+        "severity": "Low",
+        "resolution_status": "Closed",
+        "resolved_hours": "21.2"
+    },
+    {
+        "incident_id": "I0029",
+        "delivery_id": "DL00198",
+        "incident_type": "VehicleFault",
+        "reported_at": "2024-12-08 08:07:00",
+        "severity": "Medium",
+        "resolution_status": "Open",
+        "resolved_hours": "11.8"
+    },
+    {
+        "incident_id": "I0030",
+        "delivery_id": "DL00448",
+        "incident_type": "RouteDeviation",
+        "reported_at": "2024-08-30 15:06:00",
+        "severity": "Low",
+        "resolution_status": "Escalated",
+        "resolved_hours": "20.9"
+    },
+    {
+        "incident_id": "I0031",
+        "delivery_id": "DL00587",
+        "incident_type": "ProofMissing",
+        "reported_at": "2024-01-12 10:43:00",
+        "severity": "Low",
+        "resolution_status": "Escalated",
+        "resolved_hours": "16.7"
+    },
+    {
+        "incident_id": "I0032",
+        "delivery_id": "DL00181",
+        "incident_type": "VehicleFault",
+        "reported_at": "2024-08-26 02:02:00",
+        "severity": "Low",
+        "resolution_status": "Open",
+        "resolved_hours": "11.3"
+    },
+    {
+        "incident_id": "I0033",
+        "delivery_id": "DL00694",
+        "incident_type": "BatteryAlert",
+        "reported_at": "2024-03-31 09:38:00",
+        "severity": "Medium",
+        "resolution_status": "Open",
+        "resolved_hours": "4.3"
+    },
+    {
+        "incident_id": "I0034",
+        "delivery_id": "DL00684",
+        "incident_type": "AppSyncError",
+        "reported_at": "2024-02-06 14:01:00",
+        "severity": "Medium",
+        "resolution_status": "PendingVendor",
+        "resolved_hours": "23.7"
+    },
+    {
+        "incident_id": "I0035",
+        "delivery_id": "DL00882",
+        "incident_type": "AppSyncError",
+        "reported_at": "2024-06-26 15:00:00",
+        "severity": "Low",
+        "resolution_status": "Closed",
+        "resolved_hours": "0.8"
+    },
+    {
+        "incident_id": "I0036",
+        "delivery_id": "DL00272",
+        "incident_type": "VehicleFault",
+        "reported_at": "2025-09-02 17:36:00",
+        "severity": "Low",
+        "resolution_status": "Closed",
+        "resolved_hours": "7.8"
+    },
+    {
+        "incident_id": "I0037",
+        "delivery_id": "DL00938",
+        "incident_type": "TemperatureIssue",
+        "reported_at": "2024-04-04 06:40:00",
+        "severity": "High",
+        "resolution_status": "Closed",
+        "resolved_hours": "13.3"
+    },
+    {
+        "incident_id": "I0038",
+        "delivery_id": "DL00032",
+        "incident_type": "ProofMissing",
+        "reported_at": "2025-01-29 06:31:00",
+        "severity": "Medium",
+        "resolution_status": "Closed",
+        "resolved_hours": "5.2"
+    },
+    {
+        "incident_id": "I0039",
+        "delivery_id": "DL00208",
+        "incident_type": "SafetyNearMiss",
+        "reported_at": "2024-04-13 05:39:00",
+        "severity": "High",
+        "resolution_status": "Closed",
+        "resolved_hours": "2.6"
+    },
+    {
+        "incident_id": "I0040",
+        "delivery_id": "DL00573",
+        "incident_type": "ProofMissing",
+        "reported_at": "2024-05-08 00:38:00",
+        "severity": "Medium",
+        "resolution_status": "Escalated",
+        "resolved_hours": "8.1"
+    },
+    {
+        "incident_id": "I0041",
+        "delivery_id": "DL00072",
+        "incident_type": "SafetyNearMiss",
+        "reported_at": "2025-11-20 07:56:00",
+        "severity": "Medium",
+        "resolution_status": "Closed",
+        "resolved_hours": "17.3"
+    },
+    {
+        "incident_id": "I0042",
+        "delivery_id": "DL00547",
+        "incident_type": "TemperatureIssue",
+        "reported_at": "2025-10-07 21:18:00",
+        "severity": "Medium",
+        "resolution_status": "Closed",
+        "resolved_hours": "22.7"
+    },
+    {
+        "incident_id": "I0043",
+        "delivery_id": "DL00009",
+        "incident_type": "AppSyncError",
+        "reported_at": "2024-04-12 22:42:00",
+        "severity": "Low",
+        "resolution_status": "Open",
+        "resolved_hours": "20.1"
+    },
+    {
+        "incident_id": "I0044",
+        "delivery_id": "DL00590",
+        "incident_type": "ProofMissing",
+        "reported_at": "2024-08-31 06:13:00",
+        "severity": "Critical",
+        "resolution_status": "Closed",
+        "resolved_hours": "3.2"
+    },
+    {
+        "incident_id": "I0045",
+        "delivery_id": "DL00341",
+        "incident_type": "BatteryAlert",
+        "reported_at": "2024-11-14 01:36:00",
+        "severity": "Medium",
+        "resolution_status": "Open",
+        "resolved_hours": "12.2"
+    },
+    {
+        "incident_id": "I0046",
+        "delivery_id": "DL00014",
+        "incident_type": "ProofMissing",
+        "reported_at": "2024-05-07 14:02:00",
+        "severity": "High",
+        "resolution_status": "PendingVendor",
+        "resolved_hours": "6.9"
+    },
+    {
+        "incident_id": "I0047",
+        "delivery_id": "DL00919",
+        "incident_type": "SafetyNearMiss",
+        "reported_at": "2025-12-26 23:23:00",
+        "severity": "Medium",
+        "resolution_status": "Open",
+        "resolved_hours": "23.6"
+    },
+    {
+        "incident_id": "I0048",
+        "delivery_id": "DL00265",
+        "incident_type": "RouteDeviation",
+        "reported_at": "2024-06-28 12:42:00",
+        "severity": "Low",
+        "resolution_status": "Closed",
+        "resolved_hours": "2.2"
+    },
+    {
+        "incident_id": "I0049",
+        "delivery_id": "DL00493",
+        "incident_type": "BatteryAlert",
+        "reported_at": "2025-08-09 21:45:00",
+        "severity": "Medium",
+        "resolution_status": "Closed",
+        "resolved_hours": "24.3"
+    },
+    {
+        "incident_id": "I0050",
+        "delivery_id": "DL00207",
+        "incident_type": "CustomerNoShow",
+        "reported_at": "2024-03-17 01:48:00",
+        "severity": "High",
+        "resolution_status": "Open",
+        "resolved_hours": "20.9"
+    },
+    {
+        "incident_id": "I0051",
+        "delivery_id": "DL00365",
+        "incident_type": "CustomerNoShow",
+        "reported_at": "2025-09-05 09:36:00",
+        "severity": "Low",
+        "resolution_status": "PendingVendor",
+        "resolved_hours": "24.8"
+    },
+    {
+        "incident_id": "I0052",
+        "delivery_id": "DL00690",
+        "incident_type": "VehicleFault",
+        "reported_at": "2024-12-12 07:51:00",
+        "severity": "Medium",
+        "resolution_status": "Open",
+        "resolved_hours": "21.6"
+    },
+    {
+        "incident_id": "I0053",
+        "delivery_id": "DL00864",
+        "incident_type": "ProofMissing",
+        "reported_at": "2025-10-27 18:48:00",
+        "severity": "Critical",
+        "resolution_status": "Escalated",
+        "resolved_hours": "11.9"
+    },
+    {
+        "incident_id": "I0054",
+        "delivery_id": "DL00324",
+        "incident_type": "ProofMissing",
+        "reported_at": "2024-08-14 07:43:00",
+        "severity": "Low",
+        "resolution_status": "Closed",
+        "resolved_hours": "17.0"
+    },
+    {
+        "incident_id": "I0055",
+        "delivery_id": "DL00633",
+        "incident_type": "RouteDeviation",
+        "reported_at": "2024-12-11 06:59:00",
+        "severity": "High",
+        "resolution_status": "Open",
+        "resolved_hours": "21.5"
+    },
+    {
+        "incident_id": "I0056",
+        "delivery_id": "DL00788",
+        "incident_type": "VehicleFault",
+        "reported_at": "2025-05-07 05:14:00",
+        "severity": "Low",
+        "resolution_status": "PendingVendor",
+        "resolved_hours": "14.5"
+    },
+    {
+        "incident_id": "I0057",
+        "delivery_id": "DL00766",
+        "incident_type": "ProofMissing",
+        "reported_at": "2025-01-27 07:52:00",
+        "severity": "High",
+        "resolution_status": "Open",
+        "resolved_hours": "6.7"
+    },
+    {
+        "incident_id": "I0058",
+        "delivery_id": "DL00285",
+        "incident_type": "VehicleFault",
+        "reported_at": "2025-06-22 16:15:00",
+        "severity": "Low",
+        "resolution_status": "Open",
+        "resolved_hours": "14.9"
+    },
+    {
+        "incident_id": "I0059",
+        "delivery_id": "DL00670",
+        "incident_type": "VehicleFault",
+        "reported_at": "2024-08-30 20:57:00",
+        "severity": "High",
+        "resolution_status": "Closed",
+        "resolved_hours": "15.7"
+    },
+    {
+        "incident_id": "I0060",
+        "delivery_id": "DL00080",
+        "incident_type": "VehicleFault",
+        "reported_at": "2025-10-14 11:03:00",
+        "severity": "Low",
+        "resolution_status": "Closed",
+        "resolved_hours": "1.0"
+    },
+    {
+        "incident_id": "I0061",
+        "delivery_id": "DL00121",
+        "incident_type": "TemperatureIssue",
+        "reported_at": "2024-03-14 04:34:00",
+        "severity": "Medium",
+        "resolution_status": "Open",
+        "resolved_hours": "20.1"
+    },
+    {
+        "incident_id": "I0062",
+        "delivery_id": "DL00481",
+        "incident_type": "TemperatureIssue",
+        "reported_at": "2024-03-14 18:27:00",
+        "severity": "Low",
+        "resolution_status": "Closed",
+        "resolved_hours": "23.5"
+    },
+    {
+        "incident_id": "I0063",
+        "delivery_id": "DL00669",
+        "incident_type": "RouteDeviation",
+        "reported_at": "2025-06-01 06:53:00",
+        "severity": "Low",
+        "resolution_status": "Open",
+        "resolved_hours": "13.3"
+    },
+    {
+        "incident_id": "I0064",
+        "delivery_id": "DL00366",
+        "incident_type": "CustomerNoShow",
+        "reported_at": "2025-07-24 05:26:00",
+        "severity": "Medium",
+        "resolution_status": "Closed",
+        "resolved_hours": "18.6"
+    },
+    {
+        "incident_id": "I0065",
+        "delivery_id": "DL00435",
+        "incident_type": "ProofMissing",
+        "reported_at": "2024-09-13 19:32:00",
+        "severity": "Low",
+        "resolution_status": "Closed",
+        "resolved_hours": "10.3"
+    },
+    {
+        "incident_id": "I0066",
+        "delivery_id": "DL00042",
+        "incident_type": "RouteDeviation",
+        "reported_at": "2024-10-04 02:46:00",
+        "severity": "Low",
+        "resolution_status": "Closed",
+        "resolved_hours": "28.0"
+    },
+    {
+        "incident_id": "I0067",
+        "delivery_id": "DL00096",
+        "incident_type": "VehicleFault",
+        "reported_at": "2025-03-18 18:01:00",
+        "severity": "Medium",
+        "resolution_status": "Closed",
+        "resolved_hours": "2.9"
+    },
+    {
+        "incident_id": "I0068",
+        "delivery_id": "DL00799",
+        "incident_type": "CustomerNoShow",
+        "reported_at": "2024-04-25 20:37:00",
+        "severity": "Low",
+        "resolution_status": "Open",
+        "resolved_hours": "16.6"
+    },
+    {
+        "incident_id": "I0069",
+        "delivery_id": "DL00592",
+        "incident_type": "TemperatureIssue",
+        "reported_at": "2024-01-19 20:43:00",
+        "severity": "Medium",
+        "resolution_status": "Closed",
+        "resolved_hours": "9.0"
+    },
+    {
+        "incident_id": "I0070",
+        "delivery_id": "DL00250",
+        "incident_type": "CustomerNoShow",
+        "reported_at": "2024-08-27 18:10:00",
+        "severity": "Low",
+        "resolution_status": "Open",
+        "resolved_hours": "9.5"
+    },
+    {
+        "incident_id": "I0071",
+        "delivery_id": "DL00672",
+        "incident_type": "ProofMissing",
+        "reported_at": "2025-05-27 14:37:00",
+        "severity": "Critical",
+        "resolution_status": "Closed",
+        "resolved_hours": "8.2"
+    },
+    {
+        "incident_id": "I0072",
+        "delivery_id": "DL00503",
+        "incident_type": "VehicleFault",
+        "reported_at": "2024-03-15 01:30:00",
+        "severity": "Medium",
+        "resolution_status": "Closed",
+        "resolved_hours": "1.4"
+    },
+    {
+        "incident_id": "I0073",
+        "delivery_id": "DL00725",
+        "incident_type": "RouteDeviation",
+        "reported_at": "2025-11-29 02:34:00",
+        "severity": "High",
+        "resolution_status": "Open",
+        "resolved_hours": "3.2"
+    },
+    {
+        "incident_id": "I0074",
+        "delivery_id": "DL00256",
+        "incident_type": "AppSyncError",
+        "reported_at": "2025-01-22 16:01:00",
+        "severity": "Medium",
+        "resolution_status": "PendingVendor",
+        "resolved_hours": "21.7"
+    },
+    {
+        "incident_id": "I0075",
+        "delivery_id": "DL00568",
+        "incident_type": "ProofMissing",
+        "reported_at": "2024-11-11 10:10:00",
+        "severity": "Low",
+        "resolution_status": "Closed",
+        "resolved_hours": "4.5"
+    },
+    {
+        "incident_id": "I0076",
+        "delivery_id": "DL00382",
+        "incident_type": "RouteDeviation",
+        "reported_at": "2024-12-05 22:19:00",
+        "severity": "Medium",
+        "resolution_status": "Closed",
+        "resolved_hours": "3.0"
+    },
+    {
+        "incident_id": "I0077",
+        "delivery_id": "DL00455",
+        "incident_type": "ProofMissing",
+        "reported_at": "2024-04-12 09:41:00",
+        "severity": "Medium",
+        "resolution_status": "Closed",
+        "resolved_hours": "14.2"
+    },
+    {
+        "incident_id": "I0078",
+        "delivery_id": "DL00562",
+        "incident_type": "BatteryAlert",
+        "reported_at": "2024-12-14 13:04:00",
+        "severity": "Low",
+        "resolution_status": "Closed",
+        "resolved_hours": "4.7"
+    },
+    {
+        "incident_id": "I0079",
+        "delivery_id": "DL00187",
+        "incident_type": "ProofMissing",
+        "reported_at": "2024-03-05 23:18:00",
+        "severity": "High",
+        "resolution_status": "Open",
+        "resolved_hours": "1.1"
+    },
+    {
+        "incident_id": "I0080",
+        "delivery_id": "DL00336",
+        "incident_type": "ProofMissing",
+        "reported_at": "2025-02-21 18:38:00",
+        "severity": "Critical",
+        "resolution_status": "Open",
+        "resolved_hours": "27.8"
+    },
+    {
+        "incident_id": "I0081",
+        "delivery_id": "DL00224",
+        "incident_type": "AppSyncError",
+        "reported_at": "2025-01-20 04:36:00",
+        "severity": "High",
+        "resolution_status": "Closed",
+        "resolved_hours": "20.3"
+    },
+    {
+        "incident_id": "I0082",
+        "delivery_id": "DL00131",
+        "incident_type": "BatteryAlert",
+        "reported_at": "2025-07-05 13:14:00",
+        "severity": "High",
+        "resolution_status": "Escalated",
+        "resolved_hours": "13.0"
+    },
+    {
+        "incident_id": "I0083",
+        "delivery_id": "DL00820",
+        "incident_type": "ProofMissing",
+        "reported_at": "2024-12-13 20:29:00",
+        "severity": "High",
+        "resolution_status": "PendingVendor",
+        "resolved_hours": "9.0"
+    },
+    {
+        "incident_id": "I0084",
+        "delivery_id": "DL00478",
+        "incident_type": "TemperatureIssue",
+        "reported_at": "2024-01-31 20:03:00",
+        "severity": "High",
+        "resolution_status": "PendingVendor",
+        "resolved_hours": "0.0"
+    },
+    {
+        "incident_id": "I0085",
+        "delivery_id": "DL00928",
+        "incident_type": "RouteDeviation",
+        "reported_at": "2025-10-31 01:01:00",
+        "severity": "Low",
+        "resolution_status": "PendingVendor",
+        "resolved_hours": "6.0"
+    },
+    {
+        "incident_id": "I0086",
+        "delivery_id": "DL00247",
+        "incident_type": "CustomerNoShow",
+        "reported_at": "2024-12-31 14:48:00",
+        "severity": "Low",
+        "resolution_status": "PendingVendor",
+        "resolved_hours": "7.2"
+    },
+    {
+        "incident_id": "I0087",
+        "delivery_id": "DL00148",
+        "incident_type": "ProofMissing",
+        "reported_at": "2025-12-31 11:28:00",
+        "severity": "Medium",
+        "resolution_status": "Open",
+        "resolved_hours": ""
+    },
+    {
+        "incident_id": "I0088",
+        "delivery_id": "DL00348",
+        "incident_type": "ProofMissing",
+        "reported_at": "2024-10-08 02:28:00",
+        "severity": "High",
+        "resolution_status": "Escalated",
+        "resolved_hours": "2.2"
+    },
+    {
+        "incident_id": "I0089",
+        "delivery_id": "DL00915",
+        "incident_type": "RouteDeviation",
+        "reported_at": "2024-11-28 15:09:00",
+        "severity": "High",
+        "resolution_status": "Closed",
+        "resolved_hours": "13.8"
+    },
+    {
+        "incident_id": "I0090",
+        "delivery_id": "DL00576",
+        "incident_type": "ProofMissing",
+        "reported_at": "2024-11-17 03:39:00",
+        "severity": "High",
+        "resolution_status": "Closed",
+        "resolved_hours": "2.6"
+    },
+    {
+        "incident_id": "I0091",
+        "delivery_id": "DL00239",
+        "incident_type": "TemperatureIssue",
+        "reported_at": "2024-08-14 09:11:00",
+        "severity": "Medium",
+        "resolution_status": "Closed",
+        "resolved_hours": "23.1"
+    },
+    {
+        "incident_id": "I0092",
+        "delivery_id": "DL00847",
+        "incident_type": "ProofMissing",
+        "reported_at": "2024-12-22 20:55:00",
+        "severity": "High",
+        "resolution_status": "Open",
+        "resolved_hours": ""
+    },
+    {
+        "incident_id": "I0093",
+        "delivery_id": "DL00056",
+        "incident_type": "AppSyncError",
+        "reported_at": "2024-10-22 23:20:00",
+        "severity": "Medium",
+        "resolution_status": "PendingVendor",
+        "resolved_hours": "12.3"
+    },
+    {
+        "incident_id": "I0094",
+        "delivery_id": "DL00887",
+        "incident_type": "CustomerNoShow",
+        "reported_at": "2025-06-10 00:31:00",
+        "severity": "High",
+        "resolution_status": "PendingVendor",
+        "resolved_hours": "12.5"
+    },
+    {
+        "incident_id": "I0095",
+        "delivery_id": "DL00317",
+        "incident_type": "ProofMissing",
+        "reported_at": "2024-12-15 15:29:00",
+        "severity": "Low",
+        "resolution_status": "Closed",
+        "resolved_hours": "7.9"
+    },
+    {
+        "incident_id": "I0096",
+        "delivery_id": "DL00748",
+        "incident_type": "CustomerNoShow",
+        "reported_at": "2025-05-30 04:50:00",
+        "severity": "Low",
+        "resolution_status": "PendingVendor",
+        "resolved_hours": "7.4"
+    },
+    {
+        "incident_id": "I0097",
+        "delivery_id": "DL00629",
+        "incident_type": "CustomerNoShow",
+        "reported_at": "2024-05-23 09:17:00",
+        "severity": "Medium",
+        "resolution_status": "Closed",
+        "resolved_hours": "0.2"
+    },
+    {
+        "incident_id": "I0098",
+        "delivery_id": "DL00810",
+        "incident_type": "TemperatureIssue",
+        "reported_at": "2025-03-09 18:58:00",
+        "severity": "Critical",
+        "resolution_status": "PendingVendor",
+        "resolved_hours": "2.8"
+    },
+    {
+        "incident_id": "I0099",
+        "delivery_id": "DL00309",
+        "incident_type": "VehicleFault",
+        "reported_at": "2024-06-29 01:41:00",
+        "severity": "Critical",
+        "resolution_status": "Open",
+        "resolved_hours": "2.8"
+    },
+    {
+        "incident_id": "I0100",
+        "delivery_id": "DL00306",
+        "incident_type": "CustomerNoShow",
+        "reported_at": "2024-12-15 22:19:00",
+        "severity": "High",
+        "resolution_status": "Closed",
+        "resolved_hours": "0.4"
+    },
+    {
+        "incident_id": "I0101",
+        "delivery_id": "DL00578",
+        "incident_type": "VehicleFault",
+        "reported_at": "2024-02-21 09:51:00",
+        "severity": "Low",
+        "resolution_status": "PendingVendor",
+        "resolved_hours": "10.9"
+    },
+    {
+        "incident_id": "I0102",
+        "delivery_id": "DL00857",
+        "incident_type": "VehicleFault",
+        "reported_at": "2025-10-29 19:52:00",
+        "severity": "Critical",
+        "resolution_status": "PendingVendor",
+        "resolved_hours": "26.7"
+    },
+    {
+        "incident_id": "I0103",
+        "delivery_id": "DL00655",
+        "incident_type": "ProofMissing",
+        "reported_at": "2025-09-10 04:24:00",
+        "severity": "Low",
+        "resolution_status": "Closed",
+        "resolved_hours": "41.7"
+    },
+    {
+        "incident_id": "I0104",
+        "delivery_id": "DL00094",
+        "incident_type": "AppSyncError",
+        "reported_at": "2025-05-26 23:23:00",
+        "severity": "Medium",
+        "resolution_status": "Open",
+        "resolved_hours": "4.8"
+    },
+    {
+        "incident_id": "I0105",
+        "delivery_id": "DL00913",
+        "incident_type": "CustomerNoShow",
+        "reported_at": "2024-05-18 09:18:00",
+        "severity": "Critical",
+        "resolution_status": "Open",
+        "resolved_hours": "10.0"
+    },
+    {
+        "incident_id": "I0106",
+        "delivery_id": "DL00754",
+        "incident_type": "RouteDeviation",
+        "reported_at": "2025-03-21 15:11:00",
+        "severity": "Medium",
+        "resolution_status": "PendingVendor",
+        "resolved_hours": "10.2"
+    },
+    {
+        "incident_id": "I0107",
+        "delivery_id": "DL00612",
+        "incident_type": "BatteryAlert",
+        "reported_at": "2024-12-05 05:43:00",
+        "severity": "Low",
+        "resolution_status": "Closed",
+        "resolved_hours": "9.7"
+    },
+    {
+        "incident_id": "I0108",
+        "delivery_id": "DL00265",
+        "incident_type": "CustomerNoShow",
+        "reported_at": "2024-06-28 13:27:00",
+        "severity": "High",
+        "resolution_status": "Closed",
+        "resolved_hours": ""
+    },
+    {
+        "incident_id": "I0109",
+        "delivery_id": "DL00760",
+        "incident_type": "RouteDeviation",
+        "reported_at": "2024-07-23 16:26:00",
+        "severity": "High",
+        "resolution_status": "Open",
+        "resolved_hours": "20.3"
+    },
+    {
+        "incident_id": "I0110",
+        "delivery_id": "DL00855",
+        "incident_type": "TemperatureIssue",
+        "reported_at": "2025-01-08 13:40:00",
+        "severity": "Medium",
+        "resolution_status": "Closed",
+        "resolved_hours": "31.4"
+    },
+    {
+        "incident_id": "I0111",
+        "delivery_id": "DL00403",
+        "incident_type": "SafetyNearMiss",
+        "reported_at": "2025-11-02 11:15:00",
+        "severity": "Low",
+        "resolution_status": "Escalated",
+        "resolved_hours": ""
+    },
+    {
+        "incident_id": "I0112",
+        "delivery_id": "DL00627",
+        "incident_type": "BatteryAlert",
+        "reported_at": "2024-03-19 13:29:00",
+        "severity": "High",
+        "resolution_status": "Open",
+        "resolved_hours": "1.7"
+    },
+    {
+        "incident_id": "I0113",
+        "delivery_id": "DL00562",
+        "incident_type": "AppSyncError",
+        "reported_at": "2024-12-14 11:33:00",
+        "severity": "Medium",
+        "resolution_status": "Closed",
+        "resolved_hours": "16.8"
+    },
+    {
+        "incident_id": "I0114",
+        "delivery_id": "DL00373",
+        "incident_type": "RouteDeviation",
+        "reported_at": "2024-01-20 07:06:00",
+        "severity": "Low",
+        "resolution_status": "Closed",
+        "resolved_hours": "20.6"
+    },
+    {
+        "incident_id": "I0115",
+        "delivery_id": "DL00027",
+        "incident_type": "BatteryAlert",
+        "reported_at": "2024-01-01 05:05:00",
+        "severity": "Critical",
+        "resolution_status": "Open",
+        "resolved_hours": "15.4"
+    },
+    {
+        "incident_id": "I0116",
+        "delivery_id": "DL00019",
+        "incident_type": "SafetyNearMiss",
+        "reported_at": "2024-06-26 00:10:00",
+        "severity": "Critical",
+        "resolution_status": "Escalated",
+        "resolved_hours": "12.1"
+    },
+    {
+        "incident_id": "I0117",
+        "delivery_id": "DL00911",
+        "incident_type": "RouteDeviation",
+        "reported_at": "2025-04-17 18:32:00",
+        "severity": "High",
+        "resolution_status": "PendingVendor",
+        "resolved_hours": "0.6"
+    },
+    {
+        "incident_id": "I0118",
+        "delivery_id": "DL00778",
+        "incident_type": "SafetyNearMiss",
+        "reported_at": "2024-09-28 20:47:00",
+        "severity": "High",
+        "resolution_status": "Escalated",
+        "resolved_hours": "13.9"
+    },
+    {
+        "incident_id": "I0119",
+        "delivery_id": "DL00273",
+        "incident_type": "AppSyncError",
+        "reported_at": "2025-10-16 05:16:00",
+        "severity": "High",
+        "resolution_status": "Closed",
+        "resolved_hours": "3.7"
+    },
+    {
+        "incident_id": "I0120",
+        "delivery_id": "DL00169",
+        "incident_type": "VehicleFault",
+        "reported_at": "2025-04-26 10:06:00",
+        "severity": "High",
+        "resolution_status": "Closed",
+        "resolved_hours": "0.4"
+    },
+    {
+        "incident_id": "I0121",
+        "delivery_id": "DL00859",
+        "incident_type": "AppSyncError",
+        "reported_at": "2024-09-21 11:35:00",
+        "severity": "Medium",
+        "resolution_status": "Closed",
+        "resolved_hours": "4.9"
+    },
+    {
+        "incident_id": "I0122",
+        "delivery_id": "DL00518",
+        "incident_type": "RouteDeviation",
+        "reported_at": "2025-04-15 03:13:00",
+        "severity": "High",
+        "resolution_status": "Open",
+        "resolved_hours": "18.1"
+    },
+    {
+        "incident_id": "I0123",
+        "delivery_id": "DL00939",
+        "incident_type": "CustomerNoShow",
+        "reported_at": "2025-01-10 20:08:00",
+        "severity": "Medium",
+        "resolution_status": "Closed",
+        "resolved_hours": "20.1"
+    },
+    {
+        "incident_id": "I0124",
+        "delivery_id": "DL00324",
+        "incident_type": "TemperatureIssue",
+        "reported_at": "2024-08-14 07:12:00",
+        "severity": "Critical",
+        "resolution_status": "Closed",
+        "resolved_hours": "4.9"
+    },
+    {
+        "incident_id": "I0125",
+        "delivery_id": "DL00511",
+        "incident_type": "RouteDeviation",
+        "reported_at": "2025-12-30 09:16:00",
+        "severity": "Medium",
+        "resolution_status": "Open",
+        "resolved_hours": "11.4"
+    },
+    {
+        "incident_id": "I0126",
+        "delivery_id": "DL00688",
+        "incident_type": "RouteDeviation",
+        "reported_at": "2025-10-24 17:22:00",
+        "severity": "Medium",
+        "resolution_status": "Closed",
+        "resolved_hours": "6.7"
+    },
+    {
+        "incident_id": "I0127",
+        "delivery_id": "DL00404",
+        "incident_type": "TemperatureIssue",
+        "reported_at": "2024-04-03 05:31:00",
+        "severity": "Low",
+        "resolution_status": "Escalated",
+        "resolved_hours": "13.1"
+    },
+    {
+        "incident_id": "I0128",
+        "delivery_id": "DL00743",
+        "incident_type": "RouteDeviation",
+        "reported_at": "2025-05-01 05:28:00",
+        "severity": "Low",
+        "resolution_status": "Open",
+        "resolved_hours": "19.5"
+    },
+    {
+        "incident_id": "I0129",
+        "delivery_id": "DL00456",
+        "incident_type": "ProofMissing",
+        "reported_at": "2024-09-16 22:56:00",
+        "severity": "Medium",
+        "resolution_status": "Closed",
+        "resolved_hours": "15.5"
+    },
+    {
+        "incident_id": "I0130",
+        "delivery_id": "DL00496",
+        "incident_type": "CustomerNoShow",
+        "reported_at": "2024-04-23 22:00:00",
+        "severity": "Critical",
+        "resolution_status": "Open",
+        "resolved_hours": "14.6"
+    },
+    {
+        "incident_id": "I0131",
+        "delivery_id": "DL00577",
+        "incident_type": "TemperatureIssue",
+        "reported_at": "2024-01-12 22:06:00",
+        "severity": "Medium",
+        "resolution_status": "Closed",
+        "resolved_hours": "12.0"
+    },
+    {
+        "incident_id": "I0132",
+        "delivery_id": "DL00768",
+        "incident_type": "TemperatureIssue",
+        "reported_at": "2024-01-29 05:15:00",
+        "severity": "Medium",
+        "resolution_status": "Closed",
+        "resolved_hours": "4.9"
+    },
+    {
+        "incident_id": "I0133",
+        "delivery_id": "DL00523",
+        "incident_type": "VehicleFault",
+        "reported_at": "2024-05-26 19:46:00",
+        "severity": "Critical",
+        "resolution_status": "Closed",
+        "resolved_hours": "14.2"
+    },
+    {
+        "incident_id": "I0134",
+        "delivery_id": "DL00423",
+        "incident_type": "BatteryAlert",
+        "reported_at": "2025-10-05 16:20:00",
+        "severity": "Medium",
+        "resolution_status": "Open",
+        "resolved_hours": "3.8"
+    },
+    {
+        "incident_id": "I0135",
+        "delivery_id": "DL00011",
+        "incident_type": "ProofMissing",
+        "reported_at": "2024-02-02 04:42:00",
+        "severity": "Medium",
+        "resolution_status": "Open",
+        "resolved_hours": ""
+    },
+    {
+        "incident_id": "I0136",
+        "delivery_id": "DL00414",
+        "incident_type": "CustomerNoShow",
+        "reported_at": "2024-03-12 18:37:00",
+        "severity": "High",
+        "resolution_status": "Closed",
+        "resolved_hours": "16.1"
+    },
+    {
+        "incident_id": "I0137",
+        "delivery_id": "DL00525",
+        "incident_type": "BatteryAlert",
+        "reported_at": "2024-04-22 08:02:00",
+        "severity": "Low",
+        "resolution_status": "Closed",
+        "resolved_hours": "1.0"
+    },
+    {
+        "incident_id": "I0138",
+        "delivery_id": "DL00050",
+        "incident_type": "AppSyncError",
+        "reported_at": "2025-09-05 05:30:00",
+        "severity": "Medium",
+        "resolution_status": "Escalated",
+        "resolved_hours": ""
+    },
+    {
+        "incident_id": "I0139",
+        "delivery_id": "DL00126",
+        "incident_type": "ProofMissing",
+        "reported_at": "2024-04-09 17:00:00",
+        "severity": "Medium",
+        "resolution_status": "PendingVendor",
+        "resolved_hours": "11.4"
+    },
+    {
+        "incident_id": "I0140",
+        "delivery_id": "DL00790",
+        "incident_type": "RouteDeviation",
+        "reported_at": "2024-10-26 16:14:00",
+        "severity": "High",
+        "resolution_status": "Open",
+        "resolved_hours": "10.9"
+    },
+    {
+        "incident_id": "I0141",
+        "delivery_id": "DL00294",
+        "incident_type": "RouteDeviation",
+        "reported_at": "2025-10-20 03:35:00",
+        "severity": "Low",
+        "resolution_status": "Closed",
+        "resolved_hours": "18.0"
+    },
+    {
+        "incident_id": "I0142",
+        "delivery_id": "DL00192",
+        "incident_type": "SafetyNearMiss",
+        "reported_at": "2025-08-18 23:10:00",
+        "severity": "Medium",
+        "resolution_status": "Escalated",
+        "resolved_hours": "14.4"
+    },
+    {
+        "incident_id": "I0143",
+        "delivery_id": "DL00848",
+        "incident_type": "VehicleFault",
+        "reported_at": "2024-02-12 16:28:00",
+        "severity": "High",
+        "resolution_status": "Open",
+        "resolved_hours": "14.5"
+    },
+    {
+        "incident_id": "I0144",
+        "delivery_id": "DL00288",
+        "incident_type": "CustomerNoShow",
+        "reported_at": "2024-06-20 13:44:00",
+        "severity": "Medium",
+        "resolution_status": "Open",
+        "resolved_hours": "5.5"
+    },
+    {
+        "incident_id": "I0145",
+        "delivery_id": "DL00418",
+        "incident_type": "BatteryAlert",
+        "reported_at": "2024-11-02 09:19:00",
+        "severity": "Critical",
+        "resolution_status": "Closed",
+        "resolved_hours": "10.2"
+    },
+    {
+        "incident_id": "I0146",
+        "delivery_id": "DL00291",
+        "incident_type": "ProofMissing",
+        "reported_at": "2024-11-27 06:22:00",
+        "severity": "Low",
+        "resolution_status": "Closed",
+        "resolved_hours": "1.5"
+    },
+    {
+        "incident_id": "I0147",
+        "delivery_id": "DL00771",
+        "incident_type": "CustomerNoShow",
+        "reported_at": "2024-08-11 04:09:00",
+        "severity": "Medium",
+        "resolution_status": "Closed",
+        "resolved_hours": "19.6"
+    },
+    {
+        "incident_id": "I0148",
+        "delivery_id": "DL00247",
+        "incident_type": "RouteDeviation",
+        "reported_at": "2024-12-31 13:52:00",
+        "severity": "Low",
+        "resolution_status": "Closed",
+        "resolved_hours": "18.6"
+    },
+    {
+        "incident_id": "I0149",
+        "delivery_id": "DL00944",
+        "incident_type": "CustomerNoShow",
+        "reported_at": "2024-01-10 08:12:00",
+        "severity": "Medium",
+        "resolution_status": "Closed",
+        "resolved_hours": "3.1"
+    },
+    {
+        "incident_id": "I0150",
+        "delivery_id": "DL00714",
+        "incident_type": "ProofMissing",
+        "reported_at": "2025-10-06 08:55:00",
+        "severity": "Medium",
+        "resolution_status": "PendingVendor",
+        "resolved_hours": "3.1"
+    },
+    {
+        "incident_id": "I0151",
+        "delivery_id": "DL00569",
+        "incident_type": "CustomerNoShow",
+        "reported_at": "2025-11-07 02:53:00",
+        "severity": "Low",
+        "resolution_status": "Open",
+        "resolved_hours": "24.2"
+    },
+    {
+        "incident_id": "I0152",
+        "delivery_id": "DL00548",
+        "incident_type": "AppSyncError",
+        "reported_at": "2024-06-25 12:34:00",
+        "severity": "Medium",
+        "resolution_status": "PendingVendor",
+        "resolved_hours": "17.6"
+    },
+    {
+        "incident_id": "I0153",
+        "delivery_id": "DL00766",
+        "incident_type": "AppSyncError",
+        "reported_at": "2025-01-27 07:51:00",
+        "severity": "Medium",
+        "resolution_status": "Closed",
+        "resolved_hours": "10.5"
+    },
+    {
+        "incident_id": "I0154",
+        "delivery_id": "DL00603",
+        "incident_type": "BatteryAlert",
+        "reported_at": "2024-03-16 09:54:00",
+        "severity": "Medium",
+        "resolution_status": "Open",
+        "resolved_hours": "13.0"
+    },
+    {
+        "incident_id": "I0155",
+        "delivery_id": "DL00507",
+        "incident_type": "RouteDeviation",
+        "reported_at": "2025-04-30 01:04:00",
+        "severity": "High",
+        "resolution_status": "Open",
+        "resolved_hours": "18.4"
+    },
+    {
+        "incident_id": "I0156",
+        "delivery_id": "DL00772",
+        "incident_type": "VehicleFault",
+        "reported_at": "2024-10-24 09:55:00",
+        "severity": "High",
+        "resolution_status": "Escalated",
+        "resolved_hours": "10.8"
+    },
+    {
+        "incident_id": "I0157",
+        "delivery_id": "DL00307",
+        "incident_type": "TemperatureIssue",
+        "reported_at": "2024-09-22 19:02:00",
+        "severity": "Medium",
+        "resolution_status": "Closed",
+        "resolved_hours": "7.2"
+    },
+    {
+        "incident_id": "I0158",
+        "delivery_id": "DL00308",
+        "incident_type": "CustomerNoShow",
+        "reported_at": "2024-01-16 02:49:00",
+        "severity": "High",
+        "resolution_status": "Closed",
+        "resolved_hours": "4.6"
+    },
+    {
+        "incident_id": "I0159",
+        "delivery_id": "DL00776",
+        "incident_type": "VehicleFault",
+        "reported_at": "2024-11-19 17:18:00",
+        "severity": "Medium",
+        "resolution_status": "Closed",
+        "resolved_hours": "1.4"
+    },
+    {
+        "incident_id": "I0160",
+        "delivery_id": "DL00806",
+        "incident_type": "BatteryAlert",
+        "reported_at": "2025-12-28 15:15:00",
+        "severity": "Low",
+        "resolution_status": "Closed",
+        "resolved_hours": "10.2"
+    },
+    {
+        "incident_id": "I0161",
+        "delivery_id": "DL00402",
+        "incident_type": "AppSyncError",
+        "reported_at": "2024-12-04 02:29:00",
+        "severity": "Medium",
+        "resolution_status": "PendingVendor",
+        "resolved_hours": "8.9"
+    },
+    {
+        "incident_id": "I0162",
+        "delivery_id": "DL00231",
+        "incident_type": "TemperatureIssue",
+        "reported_at": "2024-03-28 02:07:00",
+        "severity": "Medium",
+        "resolution_status": "Open",
+        "resolved_hours": "12.9"
+    },
+    {
+        "incident_id": "I0163",
+        "delivery_id": "DL00062",
+        "incident_type": "AppSyncError",
+        "reported_at": "2024-02-24 19:54:00",
+        "severity": "Medium",
+        "resolution_status": "Open",
+        "resolved_hours": "4.9"
+    },
+    {
+        "incident_id": "I0164",
+        "delivery_id": "DL00844",
+        "incident_type": "RouteDeviation",
+        "reported_at": "2025-01-03 20:43:00",
+        "severity": "Critical",
+        "resolution_status": "Closed",
+        "resolved_hours": "15.9"
+    },
+    {
+        "incident_id": "I0165",
+        "delivery_id": "DL00057",
+        "incident_type": "VehicleFault",
+        "reported_at": "2024-12-09 12:50:00",
+        "severity": "Medium",
+        "resolution_status": "Open",
+        "resolved_hours": "0.1"
+    },
+    {
+        "incident_id": "I0166",
+        "delivery_id": "DL00529",
+        "incident_type": "TemperatureIssue",
+        "reported_at": "2024-09-01 09:50:00",
+        "severity": "High",
+        "resolution_status": "Escalated",
+        "resolved_hours": "8.1"
+    },
+    {
+        "incident_id": "I0167",
+        "delivery_id": "DL00364",
+        "incident_type": "BatteryAlert",
+        "reported_at": "2024-01-14 04:25:00",
+        "severity": "Low",
+        "resolution_status": "PendingVendor",
+        "resolved_hours": "15.2"
+    },
+    {
+        "incident_id": "I0168",
+        "delivery_id": "DL00820",
+        "incident_type": "TemperatureIssue",
+        "reported_at": "2024-12-13 20:11:00",
+        "severity": "High",
+        "resolution_status": "Closed",
+        "resolved_hours": "7.1"
+    },
+    {
+        "incident_id": "I0169",
+        "delivery_id": "DL00443",
+        "incident_type": "CustomerNoShow",
+        "reported_at": "2024-01-01 10:12:00",
+        "severity": "Low",
+        "resolution_status": "PendingVendor",
+        "resolved_hours": "9.1"
+    },
+    {
+        "incident_id": "I0170",
+        "delivery_id": "DL00009",
+        "incident_type": "BatteryAlert",
+        "reported_at": "2024-04-12 22:24:00",
+        "severity": "Medium",
+        "resolution_status": "Closed",
+        "resolved_hours": "7.4"
+    },
+    {
+        "incident_id": "I0171",
+        "delivery_id": "DL00900",
+        "incident_type": "VehicleFault",
+        "reported_at": "2024-10-02 17:28:00",
+        "severity": "High",
+        "resolution_status": "Open",
+        "resolved_hours": "18.4"
+    },
+    {
+        "incident_id": "I0172",
+        "delivery_id": "DL00508",
+        "incident_type": "RouteDeviation",
+        "reported_at": "2024-08-19 21:21:00",
+        "severity": "High",
+        "resolution_status": "PendingVendor",
+        "resolved_hours": "4.3"
+    },
+    {
+        "incident_id": "I0173",
+        "delivery_id": "DL00300",
+        "incident_type": "CustomerNoShow",
+        "reported_at": "2024-09-25 14:37:00",
+        "severity": "Medium",
+        "resolution_status": "Open",
+        "resolved_hours": "17.9"
+    },
+    {
+        "incident_id": "I0174",
+        "delivery_id": "DL00882",
+        "incident_type": "BatteryAlert",
+        "reported_at": "2024-06-26 16:01:00",
+        "severity": "Medium",
+        "resolution_status": "Closed",
+        "resolved_hours": ""
+    },
+    {
+        "incident_id": "I0175",
+        "delivery_id": "DL00095",
+        "incident_type": "RouteDeviation",
+        "reported_at": "2024-01-08 02:06:00",
+        "severity": "Medium",
+        "resolution_status": "Open",
+        "resolved_hours": "18.6"
+    },
+    {
+        "incident_id": "I0176",
+        "delivery_id": "DL00262",
+        "incident_type": "VehicleFault",
+        "reported_at": "2025-04-09 22:47:00",
+        "severity": "High",
+        "resolution_status": "Closed",
+        "resolved_hours": ""
+    },
+    {
+        "incident_id": "I0177",
+        "delivery_id": "DL00068",
+        "incident_type": "RouteDeviation",
+        "reported_at": "2024-02-19 18:08:00",
+        "severity": "Critical",
+        "resolution_status": "Escalated",
+        "resolved_hours": "18.1"
+    },
+    {
+        "incident_id": "I0178",
+        "delivery_id": "DL00500",
+        "incident_type": "CustomerNoShow",
+        "reported_at": "2024-09-01 06:27:00",
+        "severity": "Low",
+        "resolution_status": "PendingVendor",
+        "resolved_hours": "20.1"
+    },
+    {
+        "incident_id": "I0179",
+        "delivery_id": "DL00907",
+        "incident_type": "BatteryAlert",
+        "reported_at": "2024-04-17 03:46:00",
+        "severity": "Low",
+        "resolution_status": "Closed",
+        "resolved_hours": "6.9"
+    },
+    {
+        "incident_id": "I0180",
+        "delivery_id": "DL00001",
+        "incident_type": "ProofMissing",
+        "reported_at": "2024-06-18 11:38:00",
+        "severity": "High",
+        "resolution_status": "Open",
+        "resolved_hours": "5.6"
+    },
+    {
+        "incident_id": "I0181",
+        "delivery_id": "DL00254",
+        "incident_type": "CustomerNoShow",
+        "reported_at": "2024-12-29 16:47:00",
+        "severity": "Low",
+        "resolution_status": "Open",
+        "resolved_hours": "25.3"
+    },
+    {
+        "incident_id": "I0182",
+        "delivery_id": "DL00476",
+        "incident_type": "AppSyncError",
+        "reported_at": "2024-05-06 01:19:00",
+        "severity": "Medium",
+        "resolution_status": "PendingVendor",
+        "resolved_hours": "10.3"
+    },
+    {
+        "incident_id": "I0183",
+        "delivery_id": "DL00783",
+        "incident_type": "ProofMissing",
+        "reported_at": "2025-02-20 01:08:00",
+        "severity": "Low",
+        "resolution_status": "Closed",
+        "resolved_hours": "11.8"
+    },
+    {
+        "incident_id": "I0184",
+        "delivery_id": "DL00688",
+        "incident_type": "BatteryAlert",
+        "reported_at": "2025-10-24 20:34:00",
+        "severity": "Medium",
+        "resolution_status": "Open",
+        "resolved_hours": "7.2"
+    },
+    {
+        "incident_id": "I0185",
+        "delivery_id": "DL00446",
+        "incident_type": "RouteDeviation",
+        "reported_at": "2025-10-21 03:58:00",
+        "severity": "High",
+        "resolution_status": "Closed",
+        "resolved_hours": "5.1"
+    },
+    {
+        "incident_id": "I0186",
+        "delivery_id": "DL00933",
+        "incident_type": "ProofMissing",
+        "reported_at": "2025-12-23 14:27:00",
+        "severity": "Medium",
+        "resolution_status": "Open",
+        "resolved_hours": "16.3"
+    },
+    {
+        "incident_id": "I0187",
+        "delivery_id": "DL00404",
+        "incident_type": "ProofMissing",
+        "reported_at": "2024-04-03 05:29:00",
+        "severity": "High",
+        "resolution_status": "Closed",
+        "resolved_hours": "5.6"
+    },
+    {
+        "incident_id": "I0188",
+        "delivery_id": "DL00274",
+        "incident_type": "BatteryAlert",
+        "reported_at": "2025-01-13 07:02:00",
+        "severity": "Low",
+        "resolution_status": "Open",
+        "resolved_hours": "11.5"
+    },
+    {
+        "incident_id": "I0189",
+        "delivery_id": "DL00596",
+        "incident_type": "RouteDeviation",
+        "reported_at": "2025-06-22 01:34:00",
+        "severity": "High",
+        "resolution_status": "Escalated",
+        "resolved_hours": "23.7"
+    },
+    {
+        "incident_id": "I0190",
+        "delivery_id": "DL00804",
+        "incident_type": "ProofMissing",
+        "reported_at": "2025-11-09 06:08:00",
+        "severity": "Medium",
+        "resolution_status": "Closed",
+        "resolved_hours": "7.2"
+    },
+    {
+        "incident_id": "I0191",
+        "delivery_id": "DL00358",
+        "incident_type": "AppSyncError",
+        "reported_at": "2025-11-22 03:12:00",
+        "severity": "Medium",
+        "resolution_status": "Closed",
+        "resolved_hours": "12.9"
+    },
+    {
+        "incident_id": "I0192",
+        "delivery_id": "DL00922",
+        "incident_type": "BatteryAlert",
+        "reported_at": "2024-03-08 22:15:00",
+        "severity": "Medium",
+        "resolution_status": "Closed",
+        "resolved_hours": "0.1"
+    },
+    {
+        "incident_id": "I0193",
+        "delivery_id": "DL00469",
+        "incident_type": "VehicleFault",
+        "reported_at": "2025-04-10 03:52:00",
+        "severity": "High",
+        "resolution_status": "Open",
+        "resolved_hours": "9.1"
+    },
+    {
+        "incident_id": "I0194",
+        "delivery_id": "DL00455",
+        "incident_type": "CustomerNoShow",
+        "reported_at": "2024-04-12 12:07:00",
+        "severity": "Low",
+        "resolution_status": "Escalated",
+        "resolved_hours": "6.0"
+    },
+    {
+        "incident_id": "I0195",
+        "delivery_id": "DL00810",
+        "incident_type": "TemperatureIssue",
+        "reported_at": "2025-03-09 20:27:00",
+        "severity": "Medium",
+        "resolution_status": "Escalated",
+        "resolved_hours": "16.3"
+    },
+    {
+        "incident_id": "I0196",
+        "delivery_id": "DL00013",
+        "incident_type": "VehicleFault",
+        "reported_at": "2025-01-26 10:52:00",
+        "severity": "Medium",
+        "resolution_status": "Closed",
+        "resolved_hours": "0.2"
+    },
+    {
+        "incident_id": "I0197",
+        "delivery_id": "DL00747",
+        "incident_type": "VehicleFault",
+        "reported_at": "2025-11-10 07:11:00",
+        "severity": "Medium",
+        "resolution_status": "PendingVendor",
+        "resolved_hours": "11.2"
+    },
+    {
+        "incident_id": "I0198",
+        "delivery_id": "DL00765",
+        "incident_type": "ProofMissing",
+        "reported_at": "2024-01-01 06:44:00",
+        "severity": "Medium",
+        "resolution_status": "Open",
+        "resolved_hours": "3.1"
+    },
+    {
+        "incident_id": "I0199",
+        "delivery_id": "DL00190",
+        "incident_type": "ProofMissing",
+        "reported_at": "2025-11-01 01:32:00",
+        "severity": "Medium",
+        "resolution_status": "Open",
+        "resolved_hours": "33.8"
+    },
+    {
+        "incident_id": "I0200",
+        "delivery_id": "DL00938",
+        "incident_type": "TemperatureIssue",
+        "reported_at": "2024-04-04 05:43:00",
+        "severity": "Low",
+        "resolution_status": "PendingVendor",
+        "resolved_hours": "16.7"
+    },
+    {
+        "incident_id": "I0201",
+        "delivery_id": "DL00170",
+        "incident_type": "RouteDeviation",
+        "reported_at": "2025-06-04 05:25:00",
+        "severity": "Medium",
+        "resolution_status": "PendingVendor",
+        "resolved_hours": "8.2"
+    },
+    {
+        "incident_id": "I0202",
+        "delivery_id": "DL00661",
+        "incident_type": "ProofMissing",
+        "reported_at": "2024-12-01 02:55:00",
+        "severity": "High",
+        "resolution_status": "Closed",
+        "resolved_hours": "5.0"
+    },
+    {
+        "incident_id": "I0203",
+        "delivery_id": "DL00475",
+        "incident_type": "SafetyNearMiss",
+        "reported_at": "2024-06-03 11:44:00",
+        "severity": "Medium",
+        "resolution_status": "Open",
+        "resolved_hours": "13.2"
+    },
+    {
+        "incident_id": "I0204",
+        "delivery_id": "DL00553",
+        "incident_type": "AppSyncError",
+        "reported_at": "2024-07-03 17:43:00",
+        "severity": "Low",
+        "resolution_status": "Open",
+        "resolved_hours": "27.4"
+    },
+    {
+        "incident_id": "I0205",
+        "delivery_id": "DL00253",
+        "incident_type": "ProofMissing",
+        "reported_at": "2024-09-30 08:49:00",
+        "severity": "Low",
+        "resolution_status": "Closed",
+        "resolved_hours": "13.5"
+    },
+    {
+        "incident_id": "I0206",
+        "delivery_id": "DL00331",
+        "incident_type": "AppSyncError",
+        "reported_at": "2025-11-23 23:51:00",
+        "severity": "Low",
+        "resolution_status": "Escalated",
+        "resolved_hours": "9.2"
+    },
+    {
+        "incident_id": "I0207",
+        "delivery_id": "DL00947",
+        "incident_type": "CustomerNoShow",
+        "reported_at": "2024-10-25 17:54:00",
+        "severity": "Low",
+        "resolution_status": "Open",
+        "resolved_hours": "14.7"
+    },
+    {
+        "incident_id": "I0208",
+        "delivery_id": "DL00225",
+        "incident_type": "ProofMissing",
+        "reported_at": "2025-10-05 23:13:00",
+        "severity": "Medium",
+        "resolution_status": "Closed",
+        "resolved_hours": ""
+    },
+    {
+        "incident_id": "I0209",
+        "delivery_id": "DL00434",
+        "incident_type": "ProofMissing",
+        "reported_at": "2024-09-28 12:08:00",
+        "severity": "High",
+        "resolution_status": "Closed",
+        "resolved_hours": "2.3"
+    },
+    {
+        "incident_id": "I0210",
+        "delivery_id": "DL00650",
+        "incident_type": "VehicleFault",
+        "reported_at": "2025-11-29 08:07:00",
+        "severity": "Medium",
+        "resolution_status": "Open",
+        "resolved_hours": "4.0"
+    },
+    {
+        "incident_id": "I0211",
+        "delivery_id": "DL00943",
+        "incident_type": "RouteDeviation",
+        "reported_at": "2024-03-17 18:41:00",
+        "severity": "Low",
+        "resolution_status": "Escalated",
+        "resolved_hours": "11.6"
+    },
+    {
+        "incident_id": "I0212",
+        "delivery_id": "DL00391",
+        "incident_type": "RouteDeviation",
+        "reported_at": "2024-11-05 08:57:00",
+        "severity": "Medium",
+        "resolution_status": "Closed",
+        "resolved_hours": "2.3"
+    },
+    {
+        "incident_id": "I0213",
+        "delivery_id": "DL00855",
+        "incident_type": "BatteryAlert",
+        "reported_at": "2025-01-08 14:27:00",
+        "severity": "Medium",
+        "resolution_status": "Open",
+        "resolved_hours": "17.7"
+    },
+    {
+        "incident_id": "I0214",
+        "delivery_id": "DL00928",
+        "incident_type": "AppSyncError",
+        "reported_at": "2025-10-30 23:54:00",
+        "severity": "High",
+        "resolution_status": "Closed",
+        "resolved_hours": ""
+    },
+    {
+        "incident_id": "I0215",
+        "delivery_id": "DL00299",
+        "incident_type": "RouteDeviation",
+        "reported_at": "2024-04-29 23:25:00",
+        "severity": "Critical",
+        "resolution_status": "Open",
+        "resolved_hours": "8.6"
+    },
+    {
+        "incident_id": "I0216",
+        "delivery_id": "DL00094",
+        "incident_type": "BatteryAlert",
+        "reported_at": "2025-05-26 23:41:00",
+        "severity": "Medium",
+        "resolution_status": "Closed",
+        "resolved_hours": ""
+    },
+    {
+        "incident_id": "I0217",
+        "delivery_id": "DL00205",
+        "incident_type": "RouteDeviation",
+        "reported_at": "2024-09-18 00:46:00",
+        "severity": "Low",
+        "resolution_status": "Closed",
+        "resolved_hours": "19.2"
+    },
+    {
+        "incident_id": "I0218",
+        "delivery_id": "DL00463",
+        "incident_type": "BatteryAlert",
+        "reported_at": "2025-09-17 02:24:00",
+        "severity": "Medium",
+        "resolution_status": "PendingVendor",
+        "resolved_hours": "18.1"
+    },
+    {
+        "incident_id": "I0219",
+        "delivery_id": "DL00739",
+        "incident_type": "AppSyncError",
+        "reported_at": "2025-11-03 12:11:00",
+        "severity": "Medium",
+        "resolution_status": "PendingVendor",
+        "resolved_hours": "5.5"
+    },
+    {
+        "incident_id": "I0220",
+        "delivery_id": "DL00894",
+        "incident_type": "BatteryAlert",
+        "reported_at": "2025-11-18 13:08:00",
+        "severity": "Medium",
+        "resolution_status": "Closed",
+        "resolved_hours": "12.7"
+    },
+    {
+        "incident_id": "I0221",
+        "delivery_id": "DL00329",
+        "incident_type": "CustomerNoShow",
+        "reported_at": "2025-10-01 22:29:00",
+        "severity": "Critical",
+        "resolution_status": "Closed",
+        "resolved_hours": "3.2"
+    },
+    {
+        "incident_id": "I0222",
+        "delivery_id": "DL00706",
+        "incident_type": "AppSyncError",
+        "reported_at": "2025-07-12 06:38:00",
+        "severity": "Medium",
+        "resolution_status": "PendingVendor",
+        "resolved_hours": ""
+    },
+    {
+        "incident_id": "I0223",
+        "delivery_id": "DL00545",
+        "incident_type": "BatteryAlert",
+        "reported_at": "2024-06-16 08:16:00",
+        "severity": "High",
+        "resolution_status": "Escalated",
+        "resolved_hours": "17.3"
+    },
+    {
+        "incident_id": "I0224",
+        "delivery_id": "DL00325",
+        "incident_type": "VehicleFault",
+        "reported_at": "2024-11-06 13:19:00",
+        "severity": "Medium",
+        "resolution_status": "Open",
+        "resolved_hours": "8.4"
+    },
+    {
+        "incident_id": "I0225",
+        "delivery_id": "DL00447",
+        "incident_type": "VehicleFault",
+        "reported_at": "2025-04-12 21:13:00",
+        "severity": "Medium",
+        "resolution_status": "PendingVendor",
+        "resolved_hours": "1.6"
+    },
+    {
+        "incident_id": "I0226",
+        "delivery_id": "DL00248",
+        "incident_type": "TemperatureIssue",
+        "reported_at": "2025-08-22 18:22:00",
+        "severity": "Low",
+        "resolution_status": "Closed",
+        "resolved_hours": "12.5"
+    },
+    {
+        "incident_id": "I0227",
+        "delivery_id": "DL00139",
+        "incident_type": "VehicleFault",
+        "reported_at": "2025-08-05 04:36:00",
+        "severity": "Low",
+        "resolution_status": "Open",
+        "resolved_hours": "7.1"
+    },
+    {
+        "incident_id": "I0228",
+        "delivery_id": "DL00038",
+        "incident_type": "BatteryAlert",
+        "reported_at": "2025-10-26 18:53:00",
+        "severity": "Medium",
+        "resolution_status": "Closed",
+        "resolved_hours": "11.8"
+    },
+    {
+        "incident_id": "I0229",
+        "delivery_id": "DL00557",
+        "incident_type": "VehicleFault",
+        "reported_at": "2024-11-19 16:54:00",
+        "severity": "Medium",
+        "resolution_status": "PendingVendor",
+        "resolved_hours": "12.8"
+    },
+    {
+        "incident_id": "I0230",
+        "delivery_id": "DL00578",
+        "incident_type": "TemperatureIssue",
+        "reported_at": "2024-02-21 09:47:00",
+        "severity": "Medium",
+        "resolution_status": "Escalated",
+        "resolved_hours": "1.3"
+    },
+    {
+        "incident_id": "I0231",
+        "delivery_id": "DL00272",
+        "incident_type": "CustomerNoShow",
+        "reported_at": "2025-09-02 16:25:00",
+        "severity": "Low",
+        "resolution_status": "Open",
+        "resolved_hours": "2.5"
+    },
+    {
+        "incident_id": "I0232",
+        "delivery_id": "DL00464",
+        "incident_type": "TemperatureIssue",
+        "reported_at": "2024-05-02 18:19:00",
+        "severity": "Medium",
+        "resolution_status": "PendingVendor",
+        "resolved_hours": "29.3"
+    },
+    {
+        "incident_id": "I0233",
+        "delivery_id": "DL00673",
+        "incident_type": "SafetyNearMiss",
+        "reported_at": "2024-09-29 11:20:00",
+        "severity": "High",
+        "resolution_status": "PendingVendor",
+        "resolved_hours": "0.4"
+    },
+    {
+        "incident_id": "I0234",
+        "delivery_id": "DL00194",
+        "incident_type": "CustomerNoShow",
+        "reported_at": "2025-08-07 12:06:00",
+        "severity": "Critical",
+        "resolution_status": "Closed",
+        "resolved_hours": "10.2"
+    },
+    {
+        "incident_id": "I0235",
+        "delivery_id": "DL00339",
+        "incident_type": "AppSyncError",
+        "reported_at": "2025-06-22 12:40:00",
+        "severity": "High",
+        "resolution_status": "Open",
+        "resolved_hours": "2.1"
+    },
+    {
+        "incident_id": "I0236",
+        "delivery_id": "DL00108",
+        "incident_type": "CustomerNoShow",
+        "reported_at": "2024-11-08 05:01:00",
+        "severity": "Low",
+        "resolution_status": "Closed",
+        "resolved_hours": "11.7"
+    },
+    {
+        "incident_id": "I0237",
+        "delivery_id": "DL00397",
+        "incident_type": "ProofMissing",
+        "reported_at": "2024-03-10 18:24:00",
+        "severity": "Critical",
+        "resolution_status": "Closed",
+        "resolved_hours": "11.8"
+    },
+    {
+        "incident_id": "I0238",
+        "delivery_id": "DL00336",
+        "incident_type": "SafetyNearMiss",
+        "reported_at": "2025-02-21 18:42:00",
+        "severity": "Low",
+        "resolution_status": "Closed",
+        "resolved_hours": "4.0"
+    },
+    {
+        "incident_id": "I0239",
+        "delivery_id": "DL00239",
+        "incident_type": "CustomerNoShow",
+        "reported_at": "2024-08-14 12:07:00",
+        "severity": "Medium",
+        "resolution_status": "Escalated",
+        "resolved_hours": "10.8"
+    },
+    {
+        "incident_id": "I0240",
+        "delivery_id": "DL00213",
+        "incident_type": "CustomerNoShow",
+        "reported_at": "2025-10-16 10:42:00",
+        "severity": "Low",
+        "resolution_status": "Closed",
+        "resolved_hours": "14.9"
+    },
+    {
+        "incident_id": "I0241",
+        "delivery_id": "DL00189",
+        "incident_type": "CustomerNoShow",
+        "reported_at": "2024-11-05 13:46:00",
+        "severity": "High",
+        "resolution_status": "Escalated",
+        "resolved_hours": "21.0"
+    },
+    {
+        "incident_id": "I0242",
+        "delivery_id": "DL00798",
+        "incident_type": "AppSyncError",
+        "reported_at": "2024-08-01 00:27:00",
+        "severity": "Low",
+        "resolution_status": "Closed",
+        "resolved_hours": "16.5"
+    },
+    {
+        "incident_id": "I0243",
+        "delivery_id": "DL00052",
+        "incident_type": "CustomerNoShow",
+        "reported_at": "2025-05-06 14:07:00",
+        "severity": "Medium",
+        "resolution_status": "Closed",
+        "resolved_hours": "25.6"
+    },
+    {
+        "incident_id": "I0244",
+        "delivery_id": "DL00421",
+        "incident_type": "AppSyncError",
+        "reported_at": "2025-07-06 00:57:00",
+        "severity": "Critical",
+        "resolution_status": "Closed",
+        "resolved_hours": "10.3"
+    },
+    {
+        "incident_id": "I0245",
+        "delivery_id": "DL00347",
+        "incident_type": "ProofMissing",
+        "reported_at": "2024-12-09 02:59:00",
+        "severity": "Low",
+        "resolution_status": "Open",
+        "resolved_hours": "20.8"
+    },
+    {
+        "incident_id": "I0246",
+        "delivery_id": "DL00720",
+        "incident_type": "TemperatureIssue",
+        "reported_at": "2025-10-13 23:28:00",
+        "severity": "High",
+        "resolution_status": "Escalated",
+        "resolved_hours": "8.2"
+    },
+    {
+        "incident_id": "I0247",
+        "delivery_id": "DL00707",
+        "incident_type": "RouteDeviation",
+        "reported_at": "2025-11-12 10:47:00",
+        "severity": "Critical",
+        "resolution_status": "Open",
+        "resolved_hours": ""
+    },
+    {
+        "incident_id": "I0248",
+        "delivery_id": "DL00371",
+        "incident_type": "BatteryAlert",
+        "reported_at": "2024-03-31 09:36:00",
+        "severity": "High",
+        "resolution_status": "Open",
+        "resolved_hours": "18.5"
+    },
+    {
+        "incident_id": "I0249",
+        "delivery_id": "DL00404",
+        "incident_type": "SafetyNearMiss",
+        "reported_at": "2024-04-03 04:11:00",
+        "severity": "Medium",
+        "resolution_status": "PendingVendor",
+        "resolved_hours": "6.4"
+    },
+    {
+        "incident_id": "I0250",
+        "delivery_id": "DL00378",
+        "incident_type": "CustomerNoShow",
+        "reported_at": "2025-05-14 02:12:00",
+        "severity": "High",
+        "resolution_status": "Closed",
+        "resolved_hours": "33.9"
+    },
+    {
+        "incident_id": "I0251",
+        "delivery_id": "DL00135",
+        "incident_type": "CustomerNoShow",
+        "reported_at": "2025-07-28 06:36:00",
+        "severity": "High",
+        "resolution_status": "Escalated",
+        "resolved_hours": ""
+    },
+    {
+        "incident_id": "I0252",
+        "delivery_id": "DL00016",
+        "incident_type": "VehicleFault",
+        "reported_at": "2025-06-12 02:24:00",
+        "severity": "Medium",
+        "resolution_status": "PendingVendor",
+        "resolved_hours": "3.8"
+    },
+    {
+        "incident_id": "I0253",
+        "delivery_id": "DL00388",
+        "incident_type": "ProofMissing",
+        "reported_at": "2024-12-11 14:31:00",
+        "severity": "Low",
+        "resolution_status": "PendingVendor",
+        "resolved_hours": "21.0"
+    },
+    {
+        "incident_id": "I0254",
+        "delivery_id": "DL00275",
+        "incident_type": "VehicleFault",
+        "reported_at": "2025-02-09 20:10:00",
+        "severity": "High",
+        "resolution_status": "Closed",
+        "resolved_hours": "23.6"
+    },
+    {
+        "incident_id": "I0255",
+        "delivery_id": "DL00468",
+        "incident_type": "BatteryAlert",
+        "reported_at": "2025-04-20 07:56:00",
+        "severity": "High",
+        "resolution_status": "Escalated",
+        "resolved_hours": "22.9"
+    },
+    {
+        "incident_id": "I0256",
+        "delivery_id": "DL00073",
+        "incident_type": "TemperatureIssue",
+        "reported_at": "2025-07-23 07:40:00",
+        "severity": "Critical",
+        "resolution_status": "Closed",
+        "resolved_hours": "20.0"
+    },
+    {
+        "incident_id": "I0257",
+        "delivery_id": "DL00075",
+        "incident_type": "VehicleFault",
+        "reported_at": "2024-08-06 06:54:00",
+        "severity": "Medium",
+        "resolution_status": "Closed",
+        "resolved_hours": "3.0"
+    },
+    {
+        "incident_id": "I0258",
+        "delivery_id": "DL00036",
+        "incident_type": "AppSyncError",
+        "reported_at": "2024-11-09 01:48:00",
+        "severity": "Low",
+        "resolution_status": "Open",
+        "resolved_hours": "19.9"
+    },
+    {
+        "incident_id": "I0259",
+        "delivery_id": "DL00703",
+        "incident_type": "ProofMissing",
+        "reported_at": "2025-04-24 11:49:00",
+        "severity": "Critical",
+        "resolution_status": "Open",
+        "resolved_hours": "9.6"
+    },
+    {
+        "incident_id": "I0260",
+        "delivery_id": "DL00800",
+        "incident_type": "VehicleFault",
+        "reported_at": "2024-04-20 04:36:00",
+        "severity": "Low",
+        "resolution_status": "PendingVendor",
+        "resolved_hours": "6.1"
+    },
+    {
+        "incident_id": "I0261",
+        "delivery_id": "DL00599",
+        "incident_type": "CustomerNoShow",
+        "reported_at": "2025-02-20 09:24:00",
+        "severity": "Critical",
+        "resolution_status": "Closed",
+        "resolved_hours": "19.0"
+    },
+    {
+        "incident_id": "I0262",
+        "delivery_id": "DL00674",
+        "incident_type": "SafetyNearMiss",
+        "reported_at": "2024-01-16 07:01:00",
+        "severity": "Low",
+        "resolution_status": "Open",
+        "resolved_hours": "6.5"
+    },
+    {
+        "incident_id": "I0263",
+        "delivery_id": "DL00945",
+        "incident_type": "RouteDeviation",
+        "reported_at": "2025-01-24 07:15:00",
+        "severity": "Low",
+        "resolution_status": "Closed",
+        "resolved_hours": "2.5"
+    },
+    {
+        "incident_id": "I0264",
+        "delivery_id": "DL00772",
+        "incident_type": "VehicleFault",
+        "reported_at": "2024-10-24 07:59:00",
+        "severity": "High",
+        "resolution_status": "Escalated",
+        "resolved_hours": "21.2"
+    },
+    {
+        "incident_id": "I0265",
+        "delivery_id": "DL00734",
+        "incident_type": "CustomerNoShow",
+        "reported_at": "2025-01-20 01:08:00",
+        "severity": "High",
+        "resolution_status": "Open",
+        "resolved_hours": "2.1"
+    },
+    {
+        "incident_id": "I0266",
+        "delivery_id": "DL00608",
+        "incident_type": "VehicleFault",
+        "reported_at": "2024-12-28 18:53:00",
+        "severity": "Medium",
+        "resolution_status": "Open",
+        "resolved_hours": "4.9"
+    },
+    {
+        "incident_id": "I0267",
+        "delivery_id": "DL00874",
+        "incident_type": "AppSyncError",
+        "reported_at": "2025-03-08 08:30:00",
+        "severity": "High",
+        "resolution_status": "Escalated",
+        "resolved_hours": "15.2"
+    },
+    {
+        "incident_id": "I0268",
+        "delivery_id": "DL00108",
+        "incident_type": "RouteDeviation",
+        "reported_at": "2024-11-08 01:48:00",
+        "severity": "Low",
+        "resolution_status": "Open",
+        "resolved_hours": "17.5"
+    },
+    {
+        "incident_id": "I0269",
+        "delivery_id": "DL00153",
+        "incident_type": "RouteDeviation",
+        "reported_at": "2024-08-05 11:52:00",
+        "severity": "Low",
+        "resolution_status": "Closed",
+        "resolved_hours": "23.3"
+    },
+    {
+        "incident_id": "I0270",
+        "delivery_id": "DL00539",
+        "incident_type": "TemperatureIssue",
+        "reported_at": "2024-05-13 02:53:00",
+        "severity": "Low",
+        "resolution_status": "Escalated",
+        "resolved_hours": "8.4"
+    },
+    {
+        "incident_id": "I0271",
+        "delivery_id": "DL00755",
+        "incident_type": "RouteDeviation",
+        "reported_at": "2024-01-05 07:16:00",
+        "severity": "Medium",
+        "resolution_status": "Open",
+        "resolved_hours": ""
+    },
+    {
+        "incident_id": "I0272",
+        "delivery_id": "DL00050",
+        "incident_type": "BatteryAlert",
+        "reported_at": "2025-09-05 05:18:00",
+        "severity": "High",
+        "resolution_status": "Closed",
+        "resolved_hours": "20.3"
+    },
+    {
+        "incident_id": "I0273",
+        "delivery_id": "DL00369",
+        "incident_type": "CustomerNoShow",
+        "reported_at": "2024-02-12 23:47:00",
+        "severity": "Medium",
+        "resolution_status": "Closed",
+        "resolved_hours": "15.8"
+    },
+    {
+        "incident_id": "I0274",
+        "delivery_id": "DL00561",
+        "incident_type": "TemperatureIssue",
+        "reported_at": "2024-07-20 08:57:00",
+        "severity": "Critical",
+        "resolution_status": "Closed",
+        "resolved_hours": "2.7"
+    },
+    {
+        "incident_id": "I0275",
+        "delivery_id": "DL00804",
+        "incident_type": "RouteDeviation",
+        "reported_at": "2025-11-09 06:06:00",
+        "severity": "Low",
+        "resolution_status": "Closed",
+        "resolved_hours": "16.9"
+    },
+    {
+        "incident_id": "I0276",
+        "delivery_id": "DL00472",
+        "incident_type": "SafetyNearMiss",
+        "reported_at": "2025-12-01 22:02:00",
+        "severity": "High",
+        "resolution_status": "PendingVendor",
+        "resolved_hours": "6.5"
+    },
+    {
+        "incident_id": "I0277",
+        "delivery_id": "DL00116",
+        "incident_type": "CustomerNoShow",
+        "reported_at": "2025-10-14 15:24:00",
+        "severity": "Low",
+        "resolution_status": "Closed",
+        "resolved_hours": "18.1"
+    },
+    {
+        "incident_id": "I0278",
+        "delivery_id": "DL00725",
+        "incident_type": "TemperatureIssue",
+        "reported_at": "2025-11-29 00:45:00",
+        "severity": "Low",
+        "resolution_status": "Closed",
+        "resolved_hours": "17.8"
+    },
+    {
+        "incident_id": "I0279",
+        "delivery_id": "DL00089",
+        "incident_type": "AppSyncError",
+        "reported_at": "2025-04-01 17:37:00",
+        "severity": "Low",
+        "resolution_status": "Open",
+        "resolved_hours": "20.1"
+    },
+    {
+        "incident_id": "I0280",
+        "delivery_id": "DL00219",
+        "incident_type": "BatteryAlert",
+        "reported_at": "2024-08-07 06:39:00",
+        "severity": "Medium",
+        "resolution_status": "PendingVendor",
+        "resolved_hours": "0.4"
+    }
+]
